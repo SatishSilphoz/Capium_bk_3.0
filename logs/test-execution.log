@@ -5615,3 +5615,18 @@ Driver info: org.openqa.selenium.chrome.ChromeDriver
 Command: [5ff330891f3d5f20a79168f1c969f644, findElement [value, using]]
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55807}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55807/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: 5ff330891f3d5f20a79168f1c969f644
+2025-07-08 14:40:59 [main] INFO  com.Capium.Utilies.Log - Driver setup successfully
+2025-07-08 14:40:59 [main] INFO  com.Capium.Utilies.Log - Scenario:User login
+2025-07-08 14:40:59 [main] INFO  com.Capium.Utilies.Log - Launch browser successfully.
+2025-07-08 14:41:03 [main] INFO  com.Capium.Utilies.Log - LRL entered successfully.
+2025-07-08 14:41:04 [main] INFO  com.Capium.Utilies.Log - Username and Password entered successfully.
+2025-07-08 14:41:09 [main] INFO  com.Capium.Utilies.Log - User Click on login button successfully.
+2025-07-08 14:41:22 [main] INFO  com.Capium.Utilies.Log - redirect to Bookkeeping module successfully.
+2025-07-08 14:41:22 [main] INFO  com.Capium.Utilies.Log - Scenario Failed.
+2025-07-08 14:41:22 [main] ERROR com.Capium.Utilies.Log - ❌ Logout failed: Error communicating with the remote browser. It may have died.
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1586c41460a933b9914bfde480bfa823, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.120, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55983}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55983/devtoo..., se:cdpVersion: 137.0.7151.120, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1586c41460a933b9914bfde480bfa823
