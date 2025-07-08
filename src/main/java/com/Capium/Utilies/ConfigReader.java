@@ -10,7 +10,7 @@ public class ConfigReader {
 
 	    public static void loadProperties() {
 	        try {
-	            FileInputStream fis = new FileInputStream("src/test/resources/config.properties");
+	            FileInputStream fis = new FileInputStream("D:\\Auto\\CapiumApplication\\Capium_BK_3.0\\src\\test\\resources\\config.properties");
 	            prop = new Properties();
 	            prop.load(fis);
 	        } catch (IOException e) {
